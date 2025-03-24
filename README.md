@@ -47,11 +47,3 @@ This project applies **Logistic Regression** and **Random Forest** to predict di
 
 ---
 
-## Next Steps  
-- If needed, fine-tune with more hyperparameter combinations.  
-- Test with different cross-validation strategies.  
-- Explore additional models for comparison.  
-
----
-
-### Ready for Submission!
